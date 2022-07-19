@@ -31,4 +31,6 @@
             </li>
         @endforeach
     </ul>
+
+    {{ $animals->links() }}
 @endsection
