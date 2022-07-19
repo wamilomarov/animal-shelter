@@ -28,5 +28,6 @@ This project has a very simple database design:
  - Animal adoption age limit
  - Adding breeds, custom vet prices per breed
  - Adding image of an animal
+ - Adding tests
 
 
